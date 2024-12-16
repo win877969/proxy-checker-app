@@ -1,0 +1,16 @@
+{
+  "name": "proxy-checker-app",
+  "version": "1.0.0",
+  "description": "A simple proxy checker app using Express and Axios",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
